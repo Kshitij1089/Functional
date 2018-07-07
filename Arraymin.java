@@ -19,3 +19,8 @@ class Arraymin
 		System.out.println("Minimum element is "+min);
 	}
 }
+
+
+
+
+Testing is gud
